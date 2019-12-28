@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: Thông tin
 permalink: /about/
 ---
 
-Some information about you!
+Thông tin về tôi
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+La Thanh Hạnh
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[lathanh4321@gmail.com](mailto:lathanh4321@gmail.com)
